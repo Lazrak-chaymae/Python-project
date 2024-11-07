@@ -23,7 +23,7 @@ The following dependencies are required to run the project:
 - **README.md**: This project documentation.
 
 # How to Run
-1-Download the Folder.
+1-Clone or download the repository.
 2-Install the required dependencies:
 
 ```bash
